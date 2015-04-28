@@ -1,6 +1,6 @@
 # EM Algorithm for Gaussian Mixtures
 
-The mathematical description of an implementation of the Expectation-Maximization algorithm applied to a mixture of Gaussian distributions. Originally written on January 2001.
+The mathematical description of an implementation of the [Expectation-Maximization algorithm](http://en.wikipedia.org/wiki/Expectation–maximization_algorithm) applied to a mixture of Gaussian distributions. Originally written on January 2001.
 
 ## Creator
 
